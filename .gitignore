@@ -1,0 +1,16 @@
+# ===== Python =====
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ===== Node =====
+frontend/node_modules/
+node_modules/
+dist/
+build/
+
+# ===== Editor / OS =====
+.vscode/
+.DS_Store
